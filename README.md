@@ -1,5 +1,5 @@
-# web terms
-# web常用术语
+
+# Glossary Terms
 
 # c
 Call to action(CTA)  号召性用语
